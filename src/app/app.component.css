@@ -1,0 +1,20 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+ .mat-toolbar.mat-primary{
+    background: green;
+}
+
+table.mat-table {
+  border-spacing: 0;
+  width: 100%;
+}
+.table-container{
+ 
+  padding-right: 100px;
+  padding-left: 100px;
+
+}
+mat-form-field{
+  width: 100%;
+}

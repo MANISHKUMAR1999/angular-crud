@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Final kum",
+      "lastName": "Kumar",
+      "email": "test@gmail.com",
+      "dob": "2024-09-03T18:30:00.000Z",
+      "gender": "female",
+      "education": "Masters",
+      "company": "abcgf",
+      "experience": 9,
+      "package": 16,
+      "id": 1
+    },
+    {
+      "firstName": "Manish",
+      "lastName": "Kumar",
+      "email": "test@gmail.com",
+      "dob": "2024-09-01T18:30:00.000Z",
+      "gender": "",
+      "education": "Intermediate",
+      "company": "acc",
+      "experience": 4,
+      "package": 6,
+      "id": 3
+    },
+    {
+      "firstName": "kmt",
+      "lastName": "tyu",
+      "email": "tes@gmail.com",
+      "dob": "2024-09-04T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "rtyu",
+      "experience": 67,
+      "package": 45,
+      "id": 4
+    }
+  ]
+}
